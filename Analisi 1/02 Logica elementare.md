@@ -7,10 +7,8 @@
 [AND, $\land$] P $\land$ Q è vera se sia P che Q sono vere
 [VEL, OR, $\lor$] P $\lor$ Q è vera se almeno una tra P e Q è vera
 [AUT, XOR] P AUT Q è vera se solo una tra P e Q è vera
-
-Implicazione, $\implies, \iff$
-- [P $\implies$ Q] se P è vera Q deve essere vera, se P è falsa Q è libero
-- [P $\iff$ Q] P e Q sono entrambe vere o entrambe false
+[P $\implies$ Q] se P è vera Q deve essere vera, se P è falsa Q è libero
+[P $\iff$ Q] P e Q sono entrambe vere o entrambe false
 {OSS} P $\implies$ Q = NOT Q $\implies$ NOT P
 
 {PRP} Negazione di AND e VEL

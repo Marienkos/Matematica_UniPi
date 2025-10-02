@@ -15,7 +15,7 @@ a\alpha + b\beta = 1
 \end{cases}$$
 Da cui deriva che $F_n = \frac{1}{\sqrt 5}\alpha^n - \frac{1}{\sqrt 5}\beta^n$ è una formula chiusa per i numeri di Fibonacci
 
-{DIM} Generalizzazione
+{ALG} Generalizzazione
 Per tutte le successioni ricorsive lineari a coefficienti costanti vale il seguente procedimento:
 - Si tenta la potenza considerando la legge di ricorsione
 - Si trovano le radici del polinomio corrispondente
