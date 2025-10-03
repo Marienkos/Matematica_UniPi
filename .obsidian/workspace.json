@@ -55,32 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Geometria 1/Canone Salvetti/01 Insiemi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01 Insiemi"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "76b3a281a5e3af68",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a884c4c0a1f6e486",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -241,14 +225,14 @@
   },
   "active": "092345a68e650b96",
   "lastOpenFiles": [
-    "Geometria 1/Canone Salvetti/Lezione 1 (3).md",
-    "Aritmetica/01 Successioni.md",
-    "Aritmetica/02 Notazione e simboli.md",
+    "Geometria 1/Canone Callegaro/01 Numeri complessi.md",
+    "Geometria 1/Canone Salvetti/01 Insiemi.md",
     "Aritmetica/03 Tecniche di dimostrazione.md",
-    "README.md",
+    "Aritmetica/02 Notazione e simboli.md",
+    "Aritmetica/01 Successioni.md",
     "Analisi 1/02 Logica elementare.md",
-    "Geometria 1/Canone Callegaro/Lezione 2 (2).md",
     "Analisi 1/01 Programma.md",
+    "README.md",
     "Geometria 1/Canone Salvetti",
     "Geometria 1/Canone Callegaro",
     "Aritmetica",

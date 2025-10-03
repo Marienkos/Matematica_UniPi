@@ -57,23 +57,3 @@ Numeri razionali: $\mathbb{Q}$ = {$\frac a b | a,b\in \mathbb{R}$}
 1. Verificare tutte le proprietà dei campi per l’insieme di elementi 0, 1
 2. Dimostrare che l’elemento neutro per la somma è unico
 3. Dimostrare che l’opposto alla somma e l’inverso rispetto al prodotto sono unici
-## 5.1
-Il campo $\mathbb K$ è costituito da un sottoinsieme di $\mathbb R$ e le operazioni $+$ e $\times$ su $\mathbb R$, pertanto valgono le proprietà di $\mathbb R$ fintanto che il risultato delle stesse su $\mathbb R$ rimane in $\mathbb K$.
-## 5.2
-0 + x = x
-0’ + x = x
-0 + x = 0’ + x
-0 = 0’
-L’equazione regge per proprietà transitiva della somma
-## 5.3
-x + y = 0
-x + y’ = 0
-x + y = x + y’
-y = y’
-L’equazione regge per proprietà transitiva della somma
-
-xy = 1
-xy’ = 1
-xy = xy’
-y = y’
-L’equazione regge poiché per ipotesi x è diverso da 0
